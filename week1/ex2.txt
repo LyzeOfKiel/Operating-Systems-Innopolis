@@ -1,0 +1,500 @@
+   12  ./a.out
+   13  gcc main.c
+   14  ./a.out
+   15  gcc main.c
+   16  ./a.out
+   17  gcc main.c
+   18  ./a.out
+   19  ./tester.sh 50 LeonidTyurin
+   20  gcc main.c
+   21  ./a.out
+   22  gcc main.c
+   23  ./a.out
+   24  gcc main.c
+   25  ./a.out
+   26  gcc main.c
+   27  ./a.out
+   28  gcc main.c
+   29  ./a.out
+   30  gcc main.c
+   31  ./a.out
+   32  gcc main.c
+   33  ./a.out
+   34  gcc main.c
+   35  ./a.out
+   36  gcc main.c
+   37  ./a.out
+   38  gcc main.c
+   39  ./a.out
+   40  ./tester.sh 50 LeonidTyurin
+   41  ./a.out
+   42  gcc main.c
+   43  ./a.out
+   44  ./tester.sh 50 LeonidTyurin
+   45  gcc main.c
+   46  ./a.out
+   47  ./tester.sh 50 LeonidTyurin
+   48  gcc main.c
+   49  ./a.out
+   50  ./tester.sh 50 LeonidTyurin
+   51  gcc main.c
+   52  ./a.out
+   53  gcc main.c
+   54  ./a.out
+   55  ./tester.sh 50 LeonidTyurin
+   56  gcc test.c
+   57  gcc test.c
+   58  gcc test.c
+   59  ./a.out
+   60  gcc test.c
+   61  gcc test.c
+   62  ./a.out
+   63  gcc test.c
+   64  ./a.out
+   65  gcc main.c
+   66  ./a.out
+   67  gcc main.c
+   68  ./a.out
+   69  gcc main.c
+   70  ./a.out
+   71  ./tester.sh 50 LeonidTyurin
+   72  gcc main.c
+   73  ./a.out
+   74  gcc main.c
+   75  gcc main.c
+   76  clear
+   77  gcc main.c
+   78  gcc main.c
+   79  gcc main.c
+   80  ./a.out
+   81  gcc main.
+   82  gcc main.c
+   83  ./a.out
+   84  gcc main.c
+   85  ./a.out
+   86  ./tester.sh 50 LeonidTyurin
+   87  gcc main.c
+   88  ./a.out
+   89  ./tester.sh 50 LeonidTyurin
+   90  gcc main.c
+   91  ./a.out
+   92  ./tester.sh 50 LeonidTyurin
+   93  gcc main.c
+   94  ./a.out
+   95  ./tester.sh 50 LeonidTyurin
+   96  gcc main.c
+   97  ./a.out
+   98  ./tester.sh 50 LeonidTyurin
+   99  gcc main.c
+  100  ./a.out
+  101  ./tester.sh 50 LeonidTyurin
+  102  gcc main.c
+  103  ./a.out
+  104  ./tester.sh 50 LeonidTyurin
+  105  gcc main.c
+  106  ./a.out
+  107  ./tester.sh 50 LeonidTyurin
+  108  gcc main.c
+  109  ./a.out
+  110  ./tester.sh 50 LeonidTyurin
+  111  gcc main.c
+  112  ./a.out
+  113  ./tester.sh 50 LeonidTyurin
+  114  gcc main.c
+  115  ./a.out
+  116  ./tester.sh 50 LeonidTyurin
+  117  gcc main.c
+  118  ./a.out
+  119  ./tester.sh 50 LeonidTyurin
+  120  gcc main.c
+  121  ./a.out
+  122  ./tester.sh 50 LeonidTyurin
+  123  gcc main.c
+  124  ./a.out
+  125  ./tester.sh 50 LeonidTyurin
+  126  gcc main.c
+  127  ./a.out
+  128  ./tester.sh 50 LeonidTyurin
+  129  gcc main.c
+  130  gcc main.c
+  131  ./a.out
+  132  ./tester.sh 50 LeonidTyurin
+  133  gcc main.c
+  134  ./a.out
+  135  gcc main.c
+  136  ./a.out
+  137  ./tester.sh 50 LeonidTyurin
+  138  gcc main.c
+  139  ./a.out
+  140  ./tester.sh 50 LeonidTyurin
+  141  gcc main.c
+  142  ./a.out
+  143  ./tester.sh 50 LeonidTyurin
+  144  gcc main.c
+  145  ./a.out
+  146  gcc main.c
+  147  ./a.out
+  148  gcc main.c
+  149  ./a.out
+  150  gcc main.c
+  151  ./a.out
+  152  gcc main.c
+  153  ./a.out
+  154  gcc main.c
+  155  ./a.out
+  156  gcc main.c
+  157  ./a.out
+  158  gcc main.c
+  159  ./a.out
+  160  gcc main.c
+  161  ./a.out
+  162  gcc main.c
+  163  ./a.out
+  164  gcc main.c
+  165  ./a.out
+  166  gcc main.c
+  167  ./a.out
+  168  gcc main.c
+  169  ./a.out
+  170  gcc main.c
+  171  ./a.out
+  172  gcc main.c
+  173  gcc main.c
+  174  ./a.out
+  175  ./tester.sh 50 LeonidTyurin
+  176  gcc main.c
+  177  ./a.out
+  178  ./tester.sh 50 LeonidTyurin
+  179  gcc main.c
+  180  ./a.out
+  181  ./tester.sh 50 LeonidTyurin
+  182  gcc main.c
+  183  ./a.out
+  184  ./tester.sh 50 LeonidTyurin
+  185  gcc main.c
+  186  ./a.out
+  187  ./tester.sh 50 LeonidTyurin
+  188  gcc main.c
+  189  ./a.out
+  190  ./tester.sh 50 LeonidTyurin
+  191  gcc main.c
+  192  ./a.out
+  193  gcc main.c
+  194  ./a.out
+  195  gcc main.c
+  196  ./a.out
+  197  gcc main.c
+  198  ./a.out
+  199  ./tester.sh 50 LeonidTyurin
+  200  gcc main.c
+  201  ./a.out
+  202  ./tester.sh 50 LeonidTyurin
+  203  gcc main.c
+  204  ./a.out
+  205  ./tester.sh 50 LeonidTyurin
+  206  gcc main.c
+  207  ./a.out
+  208  gcc main.c
+  209  ./tester.sh 50 LeonidTyurin
+  210  gcc main.c
+  211  gcc main.c
+  212  ./a.out
+  213  ./tester.sh 50 LeonidTyurin
+  214  gcc main2.c
+  215  ./a.out
+  216  ./tester.sh 50 LeonidTyurin
+  217  gcc main2.c
+  218  gcc main.c
+  219  ./a.out
+  220  ./tester.sh 50 LeonidTyurin
+  221  gcc main.c
+  222  ./a.out
+  223  ./tester.sh 50 LeonidTyurin
+  224  gcc main.c
+  225  ./a.out
+  226  ./tester.sh 50 LeonidTyurin
+  227  gcc main.c
+  228  ./a.out
+  229  ./tester.sh 50 LeonidTyurin
+  230  gcc LeonidTyurin.c 
+  231  ./a.out
+  232  ./tester.sh 50 LeonidTyurin
+  233  gcc LeonidTyurin.c 
+  234  ./a.out
+  235  ./tester.sh 50 LeonidTyurin
+  236  gcc LeonidTyurin.c 
+  237  ./a.out
+  238  ./tester.sh 50 LeonidTyurin
+  239  gcc LeonidTyurin.c 
+  240  ./tester.sh 50 LeonidTyurin
+  241  ./a.out
+  242  ./tester.sh 50 LeonidTyurin
+  243  npm install -g typescript
+  244  sudo npm install -g typescript
+  245  npm uninstal typescript
+  246  sudo npm uninstal typescript
+  247  ls
+  248  cd RiderProjects/
+  249  git clone --bare https://github.com/ZlodeiBaal/BuboBubo.git
+  250  cd Re
+  251  cd RiderProjects/
+  252  git clone --bare https://github.com/ZlodeiBaal/BuboBubo.git
+  253  git clone --bare https://github.com/ZlodeiBaal/BuboBubo.git
+  254  PictureCropper.exe
+  255  open PictureCropper.exe 
+  256  python yolo.py --image images/pizzasandwich.jpg --yolo yolo-coco
+  257  python yolo.py --image images/cars.jpg --yolo yolo-coco
+  258  python yolo.py --image images/cars.jpg --yolo yolo-coco
+  259  python yolo.py --image images/pizzasandwich.jpg.jpg --yolo yolo-coco
+  260  python yolo.py --image images/pizzasandwich.jpg --yolo yolo-coco
+  261  python yolo.py --image images/pizza.jpg --yolo yolo-coco
+  262  python yolo.py --image images/zebra.jpg.jpg --yolo yolo-coco
+  263  python yolo.py --image images/zebra.jpg --yolo yolo-coco
+  264  python yolo.py --image images/cars.jpg --yolo yolo-coco
+  265  python yolo.py --image images/cars.jpg --yolo yolo-coco
+  266  python yolo.py --image images/cars.jpg --yolo yolo-coco --confidence 0.1
+  267  python yolo.py --image images/cars.jpg --yolo yolo-coco --confidence 0.1
+  268  python yolo.py --image images/cars.jpg --yolo yolo-coco --confidence 0.1
+  269  python yolo.py --image images/cars.jpg --yolo yolo-coco --confidence 0.1
+  270  python yolo.py --image images/cars.jpg --yolo yolo-coco --confidence 0.1
+  271  python yolo.py --image images/cars.jpg --yolo yolo-coco --confidence 0.1
+  272  python yolo.py --image images/cars.jpg --yolo yolo-coco --confidence 0.1
+  273  python yolo.py --image images/cars.jpg --yolo yolo-coco --confidence 0.1
+  274  python yolo.py --image images/cars.jpg --yolo yolo-coco --confidence 0.1
+  275  python yolo.py --image images/cars.jpg --yolo yolo-coco --confidence 0.1
+  276  python yolo.py --image images/cars.jpg --yolo yolo-coco --confidence 0.1
+  277  /Applications/Python\ 3.7/Install\ Certificates.command ; exit;
+  278  conda
+  279  export PATH=/Developer/NVIDIA/CUDA-10.1/bin${PATH:+:${PATH}}
+  280  export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-10.1/lib                           ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
+  281  xcode-select --install
+  282  cuda-install-samples-10.1.sh ~
+  283  cd ~/NVIDIA_CUDA-10.1_Samples/5_Simulations/nbody
+  284  make
+  285  ./nbody
+  286  ls
+  287  cd ..
+  288  path
+  289  cd nbody/
+  290  make
+  291  qho
+  292  who
+  293  who &
+  294  trap
+  295  ls -i
+  296  cd WebstormProjects/
+  297  cd NESnake2
+  298  ls
+  299  ls -i
+  300  prstat
+  301  trap
+  302  ghci
+  303  ghci
+  304  ghci
+  305  . "$HOME/.ghcup/env"
+  306  echo '. $HOME/.ghcup/env' >> "$HOME/.bashrc"
+  307  ghci
+  308  curl https://get-ghcup.haskell.org -sSf | sh
+  309  ghci
+  310  url https://get-ghcup.haskell.org -sSf | sh
+  311  curl https://get-ghcup.haskell.org -sSf | sh
+  312  brew cask install haskell-platform
+  313  g++
+  314  gcc
+  315  gmp
+  316  curl https://gitlab.haskell.org/haskell/ghcup/raw/master/bootstrap-haskell -sSf | sh
+  317  . "$HOME/.ghcup/env"
+  318  echo '. $HOME/.ghcup/env' >> "$HOME/.bashrc" 
+  319  ghci
+  320  ghci
+  321  ghci
+  322  . "$HOME/.ghcup/env"
+  323  echo '. $HOME/.ghcup/env' >> "$HOME/.bashrc"
+  324  ghci
+  325  ghc --make test
+  326  ghc --make test
+  327  ./test
+  328  ghc --make test
+  329  ghc --make test
+  330  ghc --make test
+  331  ./haskel test
+  332  ./test
+  333  ghci
+  334  cabal install zlib
+  335  ghci
+  336  cabal install random
+  337  ghci
+  338  ghc --make test
+  339  ./test
+  340  ./test
+  341  ./test
+  342  ./test
+  343  :r
+  344  ghci
+  345   
+  346  ghci
+  347  ghc --make test
+  348  haskell ./test
+  349  ./test
+  350  ghc --make test
+  351  ghc --make test
+  352  ghc --make test
+  353  test
+  354  ./test
+  355  ghci
+  356  ghci
+  357  :t zipWith
+  358  ghci
+  359  uninstall-hs
+  360  ghci
+  361  . "$HOME/.ghcup/env"
+  362  echo '. $HOME/.ghcup/env' >> "$HOME/.bashrc"
+  363  ghci
+  364  ghci
+  365  ghci
+  366  ghci
+  367  stack
+  368  stack upgrade
+  369  stack
+  370  ghci
+  371  cabal
+  372  ghci
+  373  ghci
+  374  cabal
+  375  /Users/leonidtyurin/.cabal/bin/example-echo-bot ; exit;
+  376  unhs.sh
+  377  sudo unhs.sh
+  378  sh unhs.sh
+  379  sudo sh unhs.sh
+  380  stack
+  381  curl -sSL https://get.haskellstack.org/ | sh
+  382  xcode-select --install
+  383  open /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg
+  384  curl https://get-ghcup.haskell.org -sSf | sh
+  385  y
+  386  cabal new-install cabal-install
+  387  PATH=/Users/leonidtyurin/.local/bin:$PATH
+  388  ghci
+  389  ghc
+  390  cabal
+  391  stack
+  392  cabal new-install cabal-install
+  393  PATH
+  394  echo $PATH
+  395  PATH=/Users/leonidtyurin/.ghcup/bin:$PATH
+  396  cabal
+  397  cabal update
+  398  cabal install telegram-bot-simple
+  399  cabal update
+  400  cabal install telegram-bot-simple
+  401  echo $PATH
+  402  cd Downloads
+  403  runhaskell Setup configure
+  404  cabal clean
+  405  /Users/leonidtyurin/.cabal/bin/example-todo-bot ; exit;
+  406  /Users/leonidtyurin/.cabal/bin/happy ; exit;
+  407  mkdir mongoFiles
+  408  mongod --dbpath mongoFiles
+  409  brew tap mongodb/brew
+  410  brew install mongodb-community@4.0
+  411  mongod --dbpath mongoFiles
+  412  ghci
+  413  cabal
+  414  echo $PATH
+  415  ghci
+  416  PATH = /Users/leonidtyurin/.ghcup/bin:$PATH
+  417  PATH=/Users/leonidtyurin/.ghcup/bin:$PATH
+  418  ghci
+  419  cabal
+  420  runhaskell Setup configure
+  421  cabal
+  422  cabal install telegram-bot-simple
+  423  cabal install telegram-bot-simple-0.2.0.tar
+  424  cabal install telegram-bot-simple-0.2.0.tar.gz
+  425  cabal install telegram-api
+  426  ghci
+  427  ghc-pkg hide EitherT
+  428  ghci
+  429  cabal install either
+  430  ghci
+  431  cabal install either-4.4.1
+  432  cabal reinstall either-4.4.1
+  433  cabal install either-4.4.1 --reinstall
+  434  cabal install telegram-api
+  435  cabal install telegram-api-0.7.2.0
+  436  cabal install telegram-api-0.9.2.0
+  437  cabal install servant-client-core-0.12
+  438  cabal install telegram-api-0.7.0.0
+  439  cabal install telegram-api-0.7.0.0
+  440  cabal install telegram-api-0.7.1.0
+  441  cabal install telegram-api-0.4.0.0
+  442  cabal install telegram-bot-simple
+  443  PATH=$HOME/.cabal/bin:$PATH
+  444  cabal install telegram-bot-simple
+  445  brew install happy
+  446  cabal install happy
+  447  cabal install telegram-bot-simple
+  448  ghci
+  449  cabal install servant-client-0.11
+  450  cabal install telegram-bot-simple
+  451  cabal list --installed
+  452  cabal install servant-client 0.12
+  453  cabal install servant-client-0.12
+  454  cabal install servant-client-0.12
+  455  cabal install servant-client-0.15
+  456  cabal install servant-client-0.15 --force-reinctalls
+  457  cabal install servant-client-0.15 --force
+  458  cabal install telegram-bot-simple
+  459  ghci
+  460  PATH=$HOME/.cabal/bin:$PATH
+  461  echo $PTH
+  462  echo $PATH
+  463  GHCI
+  464  ghc-pkg
+  465  rm -rf ~/.ghc ~/.cabal
+  466  cabal install telegram-bot-simple
+  467  cabal update
+  468  cabal install telegram-bot-simple
+  469  ghci
+  470  cabal install happy
+  471  cabal install telegram-bot-simple
+  472  rm -rf ~/.ghc ~/.cabal
+  473  cabal install happy
+  474  cabal update
+  475  cabal install happy
+  476  cabal install servant-client-0.15
+  477  cabal install telegram-bot-simple
+  478  ghci
+  479  PATH=$HOME/.cabal/bin:$PATH
+  480  ghci
+  481  cabal install mongoDB
+  482  ghci
+  483  ghci
+  484  ghci
+  485  ghci
+  486  ghci
+  487  ghc
+  488  ghci
+  489  ghci
+  490  . "$HOME/.ghcup/env"
+  491  ghci
+  492  echo '. $HOME/.ghcup/env' >> "$HOME/.bashrc"
+  493  ghci
+  494  ghci
+  495  ghci
+  496  ghci
+  497  ghci
+  498  cd ..
+  499  ls
+  500  cd
+  501  ls
+  502  cd "C labs"
+  503  cd week1
+  504  ls
+  505  cd Operating-Systems-Innopolis/
+  506  cd week1
+  507  ls /usr/bin
+  508  ls /usr/bin > list.txt
+  509  ls
+  510  grep gcc list.txt 
+  511  history > ex2.txt
