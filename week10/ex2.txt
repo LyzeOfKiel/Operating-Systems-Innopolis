@@ -1,0 +1,5 @@
+16725014 week10/_ex2.txt  # inode of _ex2.txt
+
+#files with inode 16725014
+.//week1/file.txt
+.//week10/_ex2.txt
