@@ -1,0 +1,2 @@
+Program 1 : String "Hello" is in buffer when fork() is called, so fork copies contents of buffer of the parent process to the contents of buffer of the child process. Then both buffers are printed
+Program 2 : String "Hello" is flushed before fork(), so new process' buffer is empty. Hello is printed only from parent process
