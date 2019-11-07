@@ -1,0 +1,12 @@
+file size : 213mb
+
+DBUFF_SIZE=1024
+real    0m0.627s
+
+DBUFF_SIZE=20
+real    0m28.471s 
+
+Execution time depends on the buffer size. The more the size of the buffer, the faster program
+executes.
+
+Adding O_SYNC increases time ~50%.
